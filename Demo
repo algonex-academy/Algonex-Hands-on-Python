@@ -1,0 +1,27 @@
+Example: Auto Email Report Script
+
+import smtplib
+from email.message import EmailMessage
+
+msg = EmailMessage()
+msg["Subject"] = "Daily Report"
+msg["From"] = "bot@company.com"
+msg["To"] = "manager@company.com"
+msg.set_content("Report generated successfully.")
+
+server = smtplib.SMTP("smtp.gmail.com", 587)
+server.starttls()
+server.login("your_email", "your_password")
+server.send_message(msg)
+server.quit()
+
+print("Email sent")
+
+Your Training Structure
+Phase 1: Python Foundations
+- Python syntax (industry-focused)
+- File handling
+- Exception handling
+- Virtual environments
+- Debugging mindset
+
