@@ -9,7 +9,7 @@ In Algonex, freshers/experienced don't get paid for knowing syntax, they get pai
 - 𝖠𝖨 & 𝖬𝖫 (𝖼𝗁𝖺𝗍𝖻𝗈𝗍𝗌, 𝗉𝗋𝖾𝖽𝗂𝖼𝗍𝗂𝗈𝗇𝗌)
 - 𝖨𝗇𝗍𝖾𝗋𝗇𝖺𝗅 𝗍𝗈𝗈𝗅𝗌 (𝖼𝗈𝗆𝗉𝖺𝗇𝗒 𝖽𝖺𝗌𝗁𝖻𝗈𝖺𝗋𝖽𝗌, 𝗌𝖼𝗋𝗂𝗉𝗍𝗌)
 
-=> Python is not a subject, irt is a tool used by teams in companies
+=> Python is not a subject, it is a tool used by teams in companies
 Let's discuss SPARK based example 
 – In a company:
 Data comes from:
@@ -44,7 +44,7 @@ server.quit()
 print("Email sent")
 
 𝗦𝗶𝗺𝗽𝗹𝗲 𝗲𝘅𝗮𝗺𝗽𝗹𝗲:
-name = input("Enter your name: ")
+name = str(input("Enter your name: "))
 print("Welcome to Python,", name)
 
 Another woww: 
@@ -54,7 +54,6 @@ print("Sum =", a + b)
 
 𝗬𝗼𝘂𝗿 𝗖𝗼𝗺𝗽𝗮𝗻𝘆 𝗲𝘅𝗮𝗺𝗽𝗹𝗲:
 𝗌𝖺𝗅𝖺𝗋𝗒 = 𝗂𝗇𝗍(𝗂𝗇𝗉𝗎𝗍("𝖤𝗇𝗍𝖾𝗋 𝗒𝗈𝗎𝗋 𝗌𝖺𝗅𝖺𝗋𝗒: "))
-
 𝗂𝖿 𝗌𝖺𝗅𝖺𝗋𝗒 > 𝟧𝟢𝟢𝟢𝟢:
 𝗉𝗋𝗂𝗇𝗍("𝖤𝗅𝗂𝗀𝗂𝖻𝗅𝖾 𝖿𝗈𝗋 𝗉𝗋𝖾𝗆𝗂𝗎𝗆 𝖾𝗆𝗉𝗅𝗈𝗒𝖾𝖾")
 𝖾𝗅𝗌𝖾:
@@ -71,8 +70,8 @@ print("Average Marks:", average)
 𝗐𝗁𝗂𝗅𝖾 𝖳𝗋𝗎𝖾:
 𝗂𝗍𝖾𝗆 = 𝗂𝗇𝗉𝗎𝗍("𝖤𝗇𝗍𝖾𝗋 𝖾𝗑𝗉𝖾𝗇𝗌𝖾 𝗇𝖺𝗆𝖾 (𝗈𝗋 '𝖾𝗑𝗂𝗍'): ")
 𝗂𝖿 𝗂𝗍𝖾𝗆 == "𝖾𝗑𝗂𝗍":
-𝖻𝗋𝖾𝖺𝗄
-𝖺𝗆𝗈𝗎𝗇𝗍 = 𝗂𝗇𝗍(𝗂𝗇𝗉𝗎𝗍("𝖤𝗇𝗍𝖾𝗋 𝖺𝗆𝗈𝗎𝗇𝗍: "))
+  𝖻𝗋𝖾𝖺𝗄
+𝖺𝗆𝗈𝗎𝗇𝗍 = float(𝗂𝗇𝗉𝗎𝗍("𝖤𝗇𝗍𝖾𝗋 𝖺𝗆𝗈𝗎𝗇𝗍: "))
 𝖾𝗑𝗉𝖾𝗇𝗌𝖾𝗌.𝖺𝗉𝗉𝖾𝗇𝖽(𝖺𝗆𝗈𝗎𝗇𝗍)
 
 𝗉𝗋𝗂𝗇𝗍("𝖳𝗈𝗍𝖺𝗅 𝖤𝗑𝗉𝖾𝗇𝗌𝖾𝗌 =", 𝗌𝗎𝗆(𝖾𝗑𝗉𝖾𝗇𝗌𝖾𝗌))
@@ -96,13 +95,13 @@ What Companies Actually Expect from you
 
 Companies expect:
 - 𝐵𝑎𝑠𝑖𝑐 𝑃𝑦𝑡ℎ𝑜𝑛 𝑙𝑜𝑔𝑖𝑐
-= 𝐴𝑏𝑖𝑙𝑖𝑡𝑦 𝑡𝑜 𝑟𝑒𝑎𝑑 𝑜𝑡ℎ𝑒𝑟𝑠 𝑐𝑜𝑑𝑒
+- 𝐴𝑏𝑖𝑙𝑖𝑡𝑦 𝑡𝑜 𝑟𝑒𝑎𝑑 𝑜𝑡ℎ𝑒𝑟𝑠 𝑐𝑜𝑑𝑒
 - 𝐷𝑒𝑏𝑢𝑔 𝑒𝑟𝑟𝑜𝑟𝑠
 - 𝑊𝑟𝑖𝑡𝑒 𝑠𝑚𝑎𝑙𝑙 𝑠𝑐𝑟𝑖𝑝𝑡𝑠
 - 𝑈𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑 ℎ𝑜𝑤 𝑑𝑎𝑡𝑎 𝑓𝑙𝑜𝑤𝑠
 - 𝑊𝑖𝑙𝑙𝑖𝑛𝑔𝑛𝑒𝑠𝑠 𝑡𝑜 𝑙𝑒𝑎𝑟𝑛
 
-=> Remember SPARK:𝗡𝗼 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗲𝘅𝗽𝗲𝗰𝘁𝘀 𝘆𝗼𝘂 𝘁𝗼 𝗯𝗲 𝗮𝗻 𝗲𝘅𝗽𝗲𝗿𝘁 - 𝗧𝗵𝗲𝘆 𝗲𝘅𝗽𝗲𝗰𝘁 𝘆𝗼𝘂 𝘁𝗼 𝗯𝗲 𝘁𝗿𝗮𝗶𝗻𝗮𝗯𝗹𝗲 𝘄𝗶𝘁𝗵 𝘀𝘁𝗿𝗼𝗻𝗴 𝗯𝗮𝘀𝗶𝗰𝘀
+=> Remember SPARK:𝗡𝗼 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗲𝘅𝗽𝗲𝗰𝘁𝘀 𝘆𝗼𝘂 𝘁𝗼 𝗯𝗲 𝗮𝗻 𝗲𝘅𝗽𝗲𝗿𝘁 - 𝗧𝗵𝗲𝘆 𝗲𝘅𝗽𝗲𝗰𝘁 𝘆𝗼𝘂 𝘁𝗼 𝗯𝗲 𝘁𝗿𝗮𝗶𝗻𝗮𝗯𝗹𝗲 𝘄𝗶𝘁𝗵 𝘀𝘁𝗿𝗼𝗻𝗴 Problem solving
 Algonex Industry-Oriented Python Learning Path
 
 𝗣𝗵𝗮𝘀𝗲 𝟭 – 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
@@ -118,10 +117,6 @@ Algonex Industry-Oriented Python Learning Path
 - Automation scripts
 
 𝑷𝒉𝒂𝒔𝒆 3 – 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
-- Student management system
-- Expense tracker
-- Resume analyzer
-- Mini backend app
 
 𝑷𝒉𝒂𝒔𝒆 4 – 𝑰𝒏𝒅𝒖𝒔𝒕𝒓𝒚 𝑹𝒆𝒂𝒅𝒊𝒏𝒆𝒔𝒔
 - Git & GitHub
