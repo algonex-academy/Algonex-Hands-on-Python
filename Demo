@@ -1,3 +1,29 @@
+𝐂𝐨𝐦𝐩𝐚𝐧𝐢𝐞𝐬 𝐝𝐨𝐧'𝐭 𝐡𝐢𝐫𝐞 𝐦𝐚𝐫𝐤𝐬, 𝐭𝐡𝐞𝐲 𝐡𝐢𝐫𝐞 𝐩𝐫𝐨𝐨𝐟 𝐨𝐟 𝐬𝐤𝐢𝐥𝐥𝐬, 𝐘𝐨𝐮'𝐥𝐥 𝐥𝐞𝐚𝐯𝐞 𝐟𝐫𝐨𝐦 𝐀𝐋𝐠𝐨𝐧𝐞𝐱 𝐰𝐢𝐭𝐡 𝐩𝐫𝐨𝐨𝐟
+
+In Algonex, freshers/experienced don't get paid for knowing syntax, they get paid for solving problems
+
+𝐖𝐡𝐞𝐫𝐞 𝐏𝐲𝐭𝐡𝐨𝐧 𝐢𝐬 𝐮𝐬𝐞𝐝 𝐢𝐧 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 like Algonex:
+- 𝖡𝖺𝖼𝗄𝖾𝗇𝖽 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 (𝖠𝖯𝖨𝗌, 𝗌𝖾𝗋𝗏𝗂𝖼𝖾𝗌)
+- 𝖣𝖺𝗍𝖺 & 𝖠𝗇𝖺𝗅𝗒𝗍𝗂𝖼𝗌 (𝗋𝖾𝗉𝗈𝗋𝗍𝗌, 𝖽𝖺𝗌𝗁𝖻𝗈𝖺𝗋𝖽𝗌)
+- 𝖠𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝗈𝗇 (𝗍𝖾𝗌𝗍𝗂𝗇𝗀, 𝗈𝗉𝗌, 𝗋𝖾𝗉𝗈𝗋𝗍𝗌)
+- 𝖠𝖨 & 𝖬𝖫 (𝖼𝗁𝖺𝗍𝖻𝗈𝗍𝗌, 𝗉𝗋𝖾𝖽𝗂𝖼𝗍𝗂𝗈𝗇𝗌)
+- 𝖨𝗇𝗍𝖾𝗋𝗇𝖺𝗅 𝗍𝗈𝗈𝗅𝗌 (𝖼𝗈𝗆𝗉𝖺𝗇𝗒 𝖽𝖺𝗌𝗁𝖻𝗈𝖺𝗋𝖽𝗌, 𝗌𝖼𝗋𝗂𝗉𝗍𝗌)
+
+=> Python is not a subject, irt is a tool used by teams in companies
+Let's discuss SPARK based example 
+– In a company:
+Data comes from:
+- Excel
+- Databases
+- APIs
+Python:
+- Reads data
+- Cleans data
+- Processes data
+- Generates reports
+- Sends output to managers
+# Your job as a fresher is to convert messy data into useful output using Python
+
 Example: Auto Email Report Script
 
 import smtplib
@@ -17,11 +43,89 @@ server.quit()
 
 print("Email sent")
 
-Your Training Structure
-Phase 1: Python Foundations
-- Python syntax (industry-focused)
-- File handling
-- Exception handling
-- Virtual environments
-- Debugging mindset
+𝗦𝗶𝗺𝗽𝗹𝗲 𝗲𝘅𝗮𝗺𝗽𝗹𝗲:
+name = input("Enter your name: ")
+print("Welcome to Python,", name)
 
+Another woww: 
+a = int(input("Enter number 1: "))
+b = int(input("Enter number 2: "))
+print("Sum =", a + b)
+
+𝗬𝗼𝘂𝗿 𝗖𝗼𝗺𝗽𝗮𝗻𝘆 𝗲𝘅𝗮𝗺𝗽𝗹𝗲:
+𝗌𝖺𝗅𝖺𝗋𝗒 = 𝗂𝗇𝗍(𝗂𝗇𝗉𝗎𝗍("𝖤𝗇𝗍𝖾𝗋 𝗒𝗈𝗎𝗋 𝗌𝖺𝗅𝖺𝗋𝗒: "))
+
+𝗂𝖿 𝗌𝖺𝗅𝖺𝗋𝗒 > 𝟧𝟢𝟢𝟢𝟢:
+𝗉𝗋𝗂𝗇𝗍("𝖤𝗅𝗂𝗀𝗂𝖻𝗅𝖾 𝖿𝗈𝗋 𝗉𝗋𝖾𝗆𝗂𝗎𝗆 𝖾𝗆𝗉𝗅𝗈𝗒𝖾𝖾")
+𝖾𝗅𝗌𝖾:
+𝗉𝗋𝗂𝗇𝗍("𝖡𝖺𝗌𝗂𝖼 𝖾𝗆𝗉𝗅𝗈𝗒𝖾")
+
+# Same logic is used for average sales, average performance, average ratings
+marks = [75, 82, 64, 90]
+average = sum(marks) / len(marks)
+print("Average Marks:", average)
+
+# Let's see an example of your daily life spendings/expenses
+𝖾𝗑𝗉𝖾𝗇𝗌𝖾𝗌 = []
+
+𝗐𝗁𝗂𝗅𝖾 𝖳𝗋𝗎𝖾:
+𝗂𝗍𝖾𝗆 = 𝗂𝗇𝗉𝗎𝗍("𝖤𝗇𝗍𝖾𝗋 𝖾𝗑𝗉𝖾𝗇𝗌𝖾 𝗇𝖺𝗆𝖾 (𝗈𝗋 '𝖾𝗑𝗂𝗍'): ")
+𝗂𝖿 𝗂𝗍𝖾𝗆 == "𝖾𝗑𝗂𝗍":
+𝖻𝗋𝖾𝖺𝗄
+𝖺𝗆𝗈𝗎𝗇𝗍 = 𝗂𝗇𝗍(𝗂𝗇𝗉𝗎𝗍("𝖤𝗇𝗍𝖾𝗋 𝖺𝗆𝗈𝗎𝗇𝗍: "))
+𝖾𝗑𝗉𝖾𝗇𝗌𝖾𝗌.𝖺𝗉𝗉𝖾𝗇𝖽(𝖺𝗆𝗈𝗎𝗇𝗍)
+
+𝗉𝗋𝗂𝗇𝗍("𝖳𝗈𝗍𝖺𝗅 𝖤𝗑𝗉𝖾𝗇𝗌𝖾𝗌 =", 𝗌𝗎𝗆(𝖾𝗑𝗉𝖾𝗇𝗌𝖾𝗌))
+
+Today you saw:
+- Input
+- Conditions
+- Loops
+- Lists
+
+In Algonex like companies, this becomes:
+𝖯𝗒𝗍𝗁𝗈𝗇 + 𝖥𝗂𝗅𝖾𝗌 -> 𝗋𝖾𝗉𝗈𝗋𝗍 𝖺𝗎𝗍𝗈𝗆𝖺𝗍𝗂𝗈𝗇
+𝖯𝗒𝗍𝗁𝗈𝗇 + 𝖠𝖯𝖨𝗌 -> 𝖻𝖺𝖼𝗄𝖾𝗇𝖽 𝗌𝖾𝗋𝗏𝗂𝖼𝖾𝗌
+𝖯𝗒𝗍𝗁𝗈𝗇 + 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 -> 𝗋𝖾𝖺𝗅 𝖺𝗉𝗉𝗅𝗂𝖼𝖺𝗍𝗂𝗈𝗇𝗌
+𝖯𝗒𝗍𝗁𝗈𝗇 + 𝖴𝖨 -> 𝗂𝗇𝗍𝖾𝗋𝗇𝖺𝗅 𝗍𝗈𝗈𝗅𝗌
+𝖯𝗒𝗍𝗁𝗈𝗇 + 𝖠𝖨 -> 𝗌𝗆𝖺𝗋𝗍 𝗌𝗒𝗌𝗍𝖾𝗆𝗌
+
+-> Same Python basics power billion-dollar products
+
+What Companies Actually Expect from you
+
+Companies expect:
+- 𝐵𝑎𝑠𝑖𝑐 𝑃𝑦𝑡ℎ𝑜𝑛 𝑙𝑜𝑔𝑖𝑐
+= 𝐴𝑏𝑖𝑙𝑖𝑡𝑦 𝑡𝑜 𝑟𝑒𝑎𝑑 𝑜𝑡ℎ𝑒𝑟𝑠 𝑐𝑜𝑑𝑒
+- 𝐷𝑒𝑏𝑢𝑔 𝑒𝑟𝑟𝑜𝑟𝑠
+- 𝑊𝑟𝑖𝑡𝑒 𝑠𝑚𝑎𝑙𝑙 𝑠𝑐𝑟𝑖𝑝𝑡𝑠
+- 𝑈𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑 ℎ𝑜𝑤 𝑑𝑎𝑡𝑎 𝑓𝑙𝑜𝑤𝑠
+- 𝑊𝑖𝑙𝑙𝑖𝑛𝑔𝑛𝑒𝑠𝑠 𝑡𝑜 𝑙𝑒𝑎𝑟𝑛
+
+=> Remember SPARK:𝗡𝗼 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗲𝘅𝗽𝗲𝗰𝘁𝘀 𝘆𝗼𝘂 𝘁𝗼 𝗯𝗲 𝗮𝗻 𝗲𝘅𝗽𝗲𝗿𝘁 - 𝗧𝗵𝗲𝘆 𝗲𝘅𝗽𝗲𝗰𝘁 𝘆𝗼𝘂 𝘁𝗼 𝗯𝗲 𝘁𝗿𝗮𝗶𝗻𝗮𝗯𝗹𝗲 𝘄𝗶𝘁𝗵 𝘀𝘁𝗿𝗼𝗻𝗴 𝗯𝗮𝘀𝗶𝗰𝘀
+Algonex Industry-Oriented Python Learning Path
+
+𝗣𝗵𝗮𝘀𝗲 𝟭 – 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀
+- Variables, conditions, loops
+- Functions
+- File handling
+- Error handling
+
+𝗣𝗵𝗮𝘀𝗲 𝟮 – 𝗥𝗲𝗮𝗹 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗦𝗸𝗶𝗹𝗹𝘀
+- Working with files & data
+- Python + SQL
+- Python + APIs
+- Automation scripts
+
+𝑷𝒉𝒂𝒔𝒆 3 – 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
+- Student management system
+- Expense tracker
+- Resume analyzer
+- Mini backend app
+
+𝑷𝒉𝒂𝒔𝒆 4 – 𝑰𝒏𝒅𝒖𝒔𝒕𝒓𝒚 𝑹𝒆𝒂𝒅𝒊𝒏𝒆𝒔𝒔
+- Git & GitHub
+- Resume projects
+- Mock interviews
+- Code reviews 
+- Deployment basics
